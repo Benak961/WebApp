@@ -13,7 +13,7 @@ posts=[
         'author':'Jhon',
         'title':'BMS',
         'content':'Edu',
-        'date_posted':'Nov 29 21'
+        'date_posted':'Nov 28 21'
 
     }
 ]
