@@ -14,6 +14,8 @@ posts=[
         'title':'BMS',
         'content':'Edu',
         'date_posted':'Nov 28 21'
+         
+         
 
     }
 ]
